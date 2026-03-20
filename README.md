@@ -215,4 +215,4 @@ src/
 
 ## Notes
 
-This repo is opinionated on purpose. The code tries to feel like an actual person built it, which, astonishingly, should not be a rare feature. It is still clean enough to extend without wanting to punch the database.
+This repo is opinionated on purpose. I did my best to make this, its actually for the game that am going to make. It is still clean enough to extend without wanting to punch the database.
